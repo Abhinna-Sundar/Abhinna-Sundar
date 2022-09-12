@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinna-Sundar
 - 👀 I’m interested in Observational Astronomy.
 - 🌱 Currently learning tools, algorithms, and numerical techniques of the field.
-- 💞️ I’m looking to collaborate on Multiwavelength Astronomy, High Energy Astrophysics, and Extragalacic Astromnomy.
+- 💞️ I’m looking to collaborate on Multiwavelength Astronomy, High Energy Astrophysics, and Extragalacic Astronomy.
 - 📫 How to reach me: abhinnasundar001@gmail.com
 
 <!---
