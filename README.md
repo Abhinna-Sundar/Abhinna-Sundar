@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Abhinna-Sundar
-- 👀 I’m interested in Observational Astronomy.
-- 🌱 Currently learning tools, algorithms, and numerical techniques of the field.
-- 💞️ I’m looking to collaborate on Multiwavelength Astronomy, High Energy Astrophysics, and Extragalacic Astronomy.
-- 📫 How to reach me: abhinnasundar001@gmail.com
+- 👋 Hi, I’m Abhinna Sundar Samantaray, a PhD student at the Astronomisches Rechen Institut at the University of Heidelberg. I study massive stars and star clusters in the nearby universe.
 
 <!---
 Abhinna-Sundar/Abhinna-Sundar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
